@@ -28,7 +28,7 @@ public class Calculator {
     /**
      * Multiplies two integers.
      *
-     * @param a the first integer
+     * @param a the first int
      * @param b the second integer
      * @return the product of a and b
      */
